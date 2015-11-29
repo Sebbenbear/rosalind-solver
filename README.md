@@ -80,6 +80,17 @@ These are some other things that README.md is recommended to have.
 - Legal stuff - copyright and licensing information (or "Read LICENSE")
 instruction to grab the documentation.
 - instructions to install, configure, and to run the programs
+
+### Setup Instructions
+
+1. Install Babel, so that the ES2015 code can be transpiled.
+
+    npm install --save babel
+
+1. Install nodemon, so that each change will automatically update the site.
+
+    npm install --save nodemon
+
 - instruction to grab the latest code and detailed instructions to build it (or quick overview and "Read INSTALL")
 - list of authors or "Read AUTHORS"
 - instructions to submit bugs, feature requests, submit patches, - join mailing list, get announcements, or join the user or dev community in other forms
