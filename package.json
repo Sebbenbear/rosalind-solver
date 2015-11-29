@@ -16,10 +16,9 @@
     "url": "https://github.com/Sebbenbear/rosalind-solver/issues"
   },
   "homepage": "https://github.com/Sebbenbear/rosalind-solver",
-  "dependencies": {
-    "nodemon": "^1.8.1"
-  },
+  "dependencies": {},
   "devDependencies": {
+    "babel": "^6.1.18",
     "nodemon": "^1.8.1"
   }
 }
