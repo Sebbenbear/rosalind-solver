@@ -19,6 +19,7 @@
   "dependencies": {},
   "devDependencies": {
     "babel": "^6.1.18",
+    "gulp": "^3.9.0",
     "nodemon": "^1.8.1"
   }
 }
